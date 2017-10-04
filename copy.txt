@@ -1,0 +1,29 @@
+Fonts:
+tbd
+
+Color: tbd
+Title color: tbd
+Text color: tbd
+Title background: tbd
+Introduction background: tbd
+Main background color: tbd
+Footer border color: #tbd
+
+Title:
+
+Tagline copy:
+
+
+Introduction copy:
+
+
+Main content copy:
+
+
+
+Feeds:
+
+Twitch
+Instagram
+Twitter
+
