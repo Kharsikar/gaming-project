@@ -1,1 +1,1 @@
-# gaming project
+# scout
